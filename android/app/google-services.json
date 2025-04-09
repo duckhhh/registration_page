@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "1089548477250",
+      "project_id": "registrationpage-ac5d3",
+      "storage_bucket": "registrationpage-ac5d3.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:1089548477250:android:ed1125d931af291327dedb",
+          "android_client_info": {
+            "package_name": "com.example.registration_page"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyA97DtnIU5Y1AWZ-JVqBIBDW_NuEOgCD5I"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
